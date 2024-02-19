@@ -7,3 +7,5 @@
 ### Hello!👋
 
 **I'm Tiger, Developer and Streamer** 
+
+<img width="45%" src="https://readme-stats-git-main-somboytiger.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
