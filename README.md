@@ -8,4 +8,7 @@
 
 **I'm Tiger, Developer and Streamer** 
 
-<img src="https://readme.somboytiger.com/api/top-langs/?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center">
+<img width="50%" src="https://readme.somboytiger.com/api?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img width="50%" src="https://readme.somboytiger.com/api/top-langs/?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
