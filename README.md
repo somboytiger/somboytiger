@@ -9,7 +9,7 @@
 **I'm Tiger, Developer and Streamer** 
 
 <div align="center">
-<a href="https://discord.com/users/919878532228841532"><img align="center" width="425" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
+<a href="https://discord.com/users/919878532228841532"><img align="center" width="200px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
 </div>
 
 <p align="center">
