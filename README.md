@@ -8,7 +8,9 @@
 
 **I'm Tiger, Developer and Streamer** 
 
+<div align="center">
 <a href="https://discord.com/users/919878532228841532"><img align="center" width="425" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
+</div>
 
 <p align="center">
 <img width="50%" src="https://readme.somboytiger.com/api?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
