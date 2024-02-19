@@ -4,12 +4,11 @@
 <img src="https://typograssy.deno.dev/api?text=SomboyTiger&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=">
 </div>
 
-### Hello!👋
-
-**I'm Tiger, Developer and Streamer** 
+### <p align="center">Hello!👋</p>
+### <p align="center">**I'm Tiger, Developer and Streamer** </p>
 
 <div align="center">
-<a href="https://discord.com/users/919878532228841532"><img align="center" width="200px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
+<a href="https://discord.com/users/919878532228841532"><img align="center" width="600px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
 </div>
 
 <p align="center">
