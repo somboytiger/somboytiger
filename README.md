@@ -8,4 +8,4 @@
 
 **I'm Tiger, Developer and Streamer** 
 
-<img src="https://stats-dev-github-git-main-somboytiger.vercel.app/api?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img src="https://readme.somboytiger.com/api/top-langs/?username=somboytiger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
